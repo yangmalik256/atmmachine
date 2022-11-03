@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-//create ATM class to implement the ATM functionality  
+//create ATM class to implement the ATM functionality
+// taremwa abdulmalik 2021/akcs/1113/f
 public class atmachine {
     // main method starts
     public static void main(String arg[]) {
